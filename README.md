@@ -3,7 +3,7 @@
 This repository contains the code for a responsive landing page inspired by Zerodha. The project is built using HTML and CSS and is hosted on GitHub Pages for quick preview.
 
 ## Demo
-Check out the live demo [here]([<add-demo-link-here>](https://saumyagupta2025.github.io/Zerodha-Landing-Page/)).
+Check out the live demo [here](https://saumyagupta2025.github.io/Zerodha-Landing-Page/).
 
 ## Usage
 **Clone the Repository:**
